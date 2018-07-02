@@ -57,7 +57,7 @@ Based on a deep understanding of what was missing in available development frame
 
 # License
 
-JarsLink is released under the [Apache 2.0 license](https://github.com/alibaba/jarslink/blob/master/LICENSE).
+JarsLink is released under the [Apache 2.0 license](https://github.com/JoeKerouac/jarslink-backup/blob/master/LICENSE).
 
 ```
 Copyright 1999-2017 Alibaba Group Holding Ltd.
