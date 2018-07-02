@@ -46,8 +46,8 @@ Based on a deep understanding of what was missing in available development frame
 
 # DOCUMENT
 
-- [中文版](https://github.com/alibaba/jarslink/wiki/index-cn)
-- [English](https://github.com/alibaba/jarslink/wiki/index)
+- [中文版](https://github.com/JoeKerouac/jarslink-backup/wiki/index-cn)
+- [English](https://github.com/JoeKerouac/jarslink-backup/wiki/index)
 
 # DOWNLOAD
 
